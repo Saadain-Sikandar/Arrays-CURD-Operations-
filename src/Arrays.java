@@ -1,11 +1,5 @@
 public class Arrays {
 
-//    DYNAMIC ARRAY
-
-
-
-
-
     //    INSERTION IN ARRAY
     public static void Insert(int[] arr, int value, int position) {
 
